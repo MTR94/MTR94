@@ -26,9 +26,5 @@ Od 2020 roku zacząłem interesować się programowaniem i od tego czasu nieusta
 - **Email**: [trybala.mar@gmail.com](mailto:trybala.mar@gmail.com)
 - **LinkedIn**: [Twój LinkedIn](https://linkedin.com/in/TwojProfil)
 
-## Statystyki GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MTR94&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MTR94&layout=compact)
-
 ---
 Ciągle uczę się nowych technologii i narzędzi, aby jeszcze bardziej rozwijać swoje umiejętności. Jestem otwarty na nowe wyzwania i chętnie podejmę się ciekawych projektów.
