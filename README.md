@@ -1,16 +1,34 @@
-## Hi there 👋
+# Cześć! 👋
+Jestem Marcin, pasjonat programowania od 2020 roku, ciągle rozwijający swoje umiejętności w różnych technologiach.
 
-<!--
-**MTR94/MTR94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## O mnie
+Od 2020 roku zacząłem interesować się programowaniem i od tego czasu nieustannie się rozwijam w tym kierunku. Specjalizuję się w technologiach backendowych, szczególnie w języku Java i frameworkach związanych z Javą.
 
-Here are some ideas to get you started:
+## Technologie
+- **Java**
+- **Spring Boot**
+- **PostgreSQL**
+- **Spring MVC**
+- **RESTful Web Services**
+- **Hibernate**
+- **MySQL**
+- **Git**
+- **Maven**
+- **Design Patterns**
+- **Testy jednostkowe JUnit**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projekty
+- [**Mój Portfolio**](https://github.com/MTR94/portfolio) - Strona prezentująca moje dotychczasowe prace i projekty.
+- [**ShopWeb**](https://github.com/MTR94/ShopWeb) - Aplikacja e-commerce napisana w Spring Boot i React.
+- [**Kurs**](https://github.com/MTR94/Kurs) - Różne projekty realizowane podczas kursów programistycznych.
+
+## Kontakt
+- **Email**: [trybala.mar@gmail.com](mailto:trybala.mar@gmail.com)
+- **LinkedIn**: [Twój LinkedIn](https://linkedin.com/in/TwojProfil)
+
+## Statystyki GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MTR94&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MTR94&layout=compact)
+
+---
+Ciągle uczę się nowych technologii i narzędzi, aby jeszcze bardziej rozwijać swoje umiejętności. Jestem otwarty na nowe wyzwania i chętnie podejmę się ciekawych projektów.
