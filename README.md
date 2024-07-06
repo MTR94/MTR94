@@ -18,13 +18,13 @@ Od 2020 roku zacząłem interesować się programowaniem i od tego czasu nieusta
 - **Testy jednostkowe JUnit**
 
 ## Projekty
-- [**Mój Portfolio**](https://github.com/MTR94/portfolio) - Strona prezentująca moje dotychczasowe prace i projekty.
-- [**ShopWeb**](https://github.com/MTR94/ShopWeb) - Aplikacja e-commerce napisana w Spring Boot i React.
-- [**Kurs**](https://github.com/MTR94/Kurs) - Różne projekty realizowane podczas kursów programistycznych.
+- w trakcie
+-
 
 ## Kontakt
 - **Email**: [trybala.mar@gmail.com](mailto:trybala.mar@gmail.com)
-- **LinkedIn**: [Twój LinkedIn](https://linkedin.com/in/TwojProfil)
+- **LinkedIn**: www.linkedin.com/in/marcin-trybała-9405542b4
+
 
 ---
 Ciągle uczę się nowych technologii i narzędzi, aby jeszcze bardziej rozwijać swoje umiejętności. Jestem otwarty na nowe wyzwania i chętnie podejmę się ciekawych projektów.
